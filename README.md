@@ -1,2 +1,2 @@
 # projetos_react
-Projetos com react 
+projetos com react
